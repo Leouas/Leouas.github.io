@@ -27,7 +27,9 @@ per_page: 10
 - [hexo-generator-tag](https://github.com/hexojs/hexo-generator-tag)
 
 使用如下命令进行安装需要的插件  
+
 <!-- more -->
+
 ```
 $ npm install hexo-generator-archive --save  
 ```

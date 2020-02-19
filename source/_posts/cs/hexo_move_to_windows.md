@@ -25,7 +25,9 @@ $ cd xxxx
 $ npm install
 $ hexo server
 ```
+
 <!-- more -->
+
 ## git bash配置身份信息 并配置git deploy
 
 ```text
