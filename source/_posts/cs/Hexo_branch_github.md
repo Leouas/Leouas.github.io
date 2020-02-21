@@ -1,11 +1,9 @@
 ---
-title：heox_博客多设备同步管理
+title: heox_博客多设备同步管理
 date: 2020-02-20 02:29:08
-tag: 
-
+tag:
 - hexo
 - github
-
 ---
 
 # Hexo_Branch_github
@@ -20,7 +18,7 @@ tag:
 
 想要实现这三点，搜寻一番后发现在托管静态博客文件的repo创建一个新分支，然后将本地文件提交到新分支就能很好的实现上面三点。
 
-### 设置  .gitignore
+## 1. 设置  .gitignore
 
 在博客根目录`/hexo`中创建`.gitnore`文件
 
@@ -32,9 +30,9 @@ node_modules/
 db.json
 ```
 
-### 创建本地分支，并推送至远端
+## 2. 创建本地分支，并推送至远端
 
-```shell
+```bash
 git checkout -b hexo
 ```
 
@@ -42,17 +40,17 @@ git checkout -b hexo
 > 
 > `git branch`(查看当前分支)
 
-```shell
+```bash
 git push origin hexo
 ```
 
 > 将新分支推送至GitHub
 
-### 编写shell脚本，快捷更新文件
+## 3. 编写shell脚本，快捷更新文件
 
 新建`update.sh`
 
-```shell
+```bash
 git add . && git commit -m "update" && git push origin hexo
 ```
 
@@ -77,10 +75,3 @@ git add . && git commit -m "update" && git push origin hexo
   
   - `git branch -a`查看所有分支
 
-参照 https://www.titanjun.top/
-
-- [基于GitHub和Hexo搭建个人博客](https://www.titanjun.top/2018/03/08/%E5%9F%BA%E4%BA%8EGitHub%E5%92%8CHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/)
-
-- [NexT主题配置优化-出土指南](https://www.titanjun.top/2018/04/03/NexT%E4%B8%BB%E9%A2%98%E9%85%8D%E7%BD%AE%E4%BC%98%E5%8C%96-%E5%87%BA%E5%9C%9F%E6%8C%87%E5%8D%97/)
-
-- [Hexo博客多台电脑设备同步管理](https://www.titanjun.top/2018/04/12/Hexo%E5%8D%9A%E5%AE%A2%E5%A4%9A%E5%8F%B0%E7%94%B5%E8%84%91%E8%AE%BE%E5%A4%87%E5%90%8C%E6%AD%A5%E7%AE%A1%E7%90%86/)
