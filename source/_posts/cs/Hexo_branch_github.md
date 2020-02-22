@@ -1,12 +1,11 @@
 ---
-title: heox_博客多设备同步管理
+title: heox 博客多设备同步管理
 date: 2020-02-20 02:29:08
 tag:
 - hexo
 - github
 ---
 
-# Hexo_Branch_github
 
 之前一直没想好个人博客文件怎么存放？
 
