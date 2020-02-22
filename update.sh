@@ -1,1 +1,1 @@
-git add . && git commit -m "update" && git push origin hexo
+git add . && git commit -m "update" && git push origin hexo && hexo g && hexo d

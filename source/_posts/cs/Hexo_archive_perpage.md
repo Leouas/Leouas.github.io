@@ -1,5 +1,5 @@
 ---
-title: hexo_per_page
+title: hexo per page
 date: 2020-02-17 05:12:25
 tags:
 - hexo
