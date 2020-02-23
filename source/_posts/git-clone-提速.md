@@ -1,5 +1,5 @@
 ---
-title: git_clone_提速
+title: git clone 提速
 date: 2020-02-22 16:18:10
 tags: github
 ---
@@ -21,3 +21,5 @@ tags: github
 ```
 199.232.5.194 http://github.global.ssl.fastly.Net
 ```
+>当前这种方式已经没有什么效果了
+>最好的解决方法是使用码云 gitee 导入 github 仓库，之后在 gitee 上面克隆仓库
