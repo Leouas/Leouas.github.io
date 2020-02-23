@@ -4,6 +4,7 @@ menu:
   Archives: /archives
   Courses: /categories/whut
   Whut: /tags/whut
+  Playlist: /Playlist
   About: /about
 rss: /atom.xml
 
@@ -25,8 +26,8 @@ widgets:
 # Links
 links:
 	Github: https://github.com/Leouas/
-  热前端: http://reqianduan.com
-  远程.work: http://yuancheng.work
+
+
 
 # Miscellaneous
 google_analytics:
