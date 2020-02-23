@@ -3,9 +3,9 @@ menu:
   Home: /
   Archives: /archives
   Courses: /categories/whut
-  Whut: /tags/whut
+  #Whut: /tags/whut
   Playlist: /playlist
-  About: /about
+  #About: /about
 rss: /atom.xml
 
 # Content
