@@ -1,7 +1,7 @@
 ---
 title: hexo new pages 后自动用编辑器打开文档
 date: 2020-02-22 15:15:53
-tags: - hexo
+tags: hexo
 ---
 
 在博客根目录中新建`scripts`文件夹，然后新建 `.js`文件，加入以下内容
