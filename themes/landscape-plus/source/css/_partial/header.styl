@@ -30,7 +30,7 @@
   width: 100%
   height: 100%
   //background: #393d41
-  background: url(https://i.loli.net/2020/02/16/6mbAX9NUrd1xMRH.jpg) center #000
+  background: url(https://cdn.jsdelivr.net/gh/Leouas/cdn@1.0.1/img/banner/about.jpg) center #000
   background-size: cover
   z-index: -1
 
@@ -46,7 +46,11 @@ $logo-text
   text-decoration: none
   color: #fff
   font-weight: 300
+  opacity: 0.0
+  transition: opacity 0.9s
   text-shadow: 0 1px 4px rgba(0, 0, 0, 0.3)
+  &:hover
+    opacity: 1
 
 #logo
   @extend $logo-text
@@ -74,14 +78,15 @@ $logo-text
 $nav-link
   float: left
   color: #fff
-  opacity: 0.6
+  opacity: 0.2
   text-decoration: none
-  text-shadow: 0 1px rgba(0, 0, 0, 0.2)
-  transition: opacity 0.2s
+  text-shadow: 0 2px rgba(0, 0, 0, 0.2)
+  transition: opacity 0.4s
   display: block
   padding: 20px 15px
   &:hover
     opacity: 1
+    text-shadow: 0 3px 4px rgba(0, 0, 0, 0.3)
 
 .nav-icon
   @extend $nav-link

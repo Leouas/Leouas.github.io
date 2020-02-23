@@ -2,8 +2,8 @@
 menu:
   Home: /
   Archives: /archives
-  Categories: /categories
-  Tags: /tags
+  Courses: /categories/whut
+  Whut: /tags/whut
   About: /about
 rss: /atom.xml
 
@@ -15,16 +15,16 @@ mathjax: right
 # Sidebar
 sidebar: right
 widgets:
-- tagcloud
 - recent_posts
 - archive
 - category
 - tag
+- tagcloud
 - links
 
 # Links
 links:
-	Github Me: https://github.com/Leouas/
+	Github: https://github.com/Leouas/
   热前端: http://reqianduan.com
   远程.work: http://yuancheng.work
 
