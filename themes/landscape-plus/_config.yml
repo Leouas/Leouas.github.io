@@ -11,7 +11,7 @@ rss: /atom.xml
 # Content
 excerpt_link: Read More
 fancybox: right
-mathjax: right
+mathjax: false
 
 # Sidebar
 sidebar: right
