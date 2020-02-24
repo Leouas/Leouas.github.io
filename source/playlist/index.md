@@ -18,7 +18,7 @@ type: "playlist"
 
 {% meting "4880590323" "netease" "playlist" "theme:#FF4081" "mode:circulation" "order:random" "mutex:true" "listmaxheight:340px"  %}
 
-
+<img src="https://i.loli.net/2020/02/25/4ck63GVTwF2LroP.jpg" title="" alt="" data-align="center" width="75"><a href="https://www.bilibili.com/video/av2288962" target="_blank" rel="noopener noreferrer nofollow"><center>Animenz !!</center></a>
 
 
 
