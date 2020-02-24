@@ -3,7 +3,7 @@ menu:
   Home: /
   Archives: /archives
   Courses: /categories/whut
-  #Whut: /tags/whut
+  Whut: /bthl
   Playlist: /playlist
   #About: /about
 rss: /atom.xml
