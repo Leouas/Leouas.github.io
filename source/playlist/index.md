@@ -1,9 +1,10 @@
 ---
-title: playlist
+title: 
 date: 2020-02-23 17:12:25
 type: "playlist"
 ---
-## music
+
+![](https://cdn.jsdelivr.net/gh/Leouas/Leouas_imgs/picgo/Aprlie.jpg)
 
 {% meting "19618" "netease" "artist" %}
 
