@@ -16,10 +16,10 @@ mathjax: false
 # Sidebar
 sidebar: right
 widgets:
-- recent_posts
-- archive
 - category
 - tag
+- archive
+- recent_posts
 - tagcloud
 - links
 
