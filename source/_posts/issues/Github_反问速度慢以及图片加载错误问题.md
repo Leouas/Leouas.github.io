@@ -1,5 +1,5 @@
 ---
-title: Github 反问速度慢以及图片加载错误问题
+title: Github 反应速度慢以及图片加载错误问题
 date: 2020-02-19 19:12:11
 tags: github
 ---
