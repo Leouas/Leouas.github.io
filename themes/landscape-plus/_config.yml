@@ -31,7 +31,7 @@ links:
 
 # Miscellaneous
 google_analytics:
-favicon: /favicon.jpg
+favicon: /img/faviconmoon.ico
 twitter: 
 google_plus:
 fb_admins: 
@@ -42,3 +42,4 @@ fb_app_id:
 
 # Baidu share
 #baidushare: true
+
