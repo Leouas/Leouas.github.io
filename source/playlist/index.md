@@ -3,7 +3,7 @@ title:
 date: 2020-02-23 17:12:25
 type: "playlist"
 ---
-![](https://cdn.jsdelivr.net/gh/Leouas/cdn@latest/img/pic/Aprlies.png)
+![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/picgo/Aprlies.jpg)
 
 
 {% meting "32272663" "netease" "song" "autoplay" %}
