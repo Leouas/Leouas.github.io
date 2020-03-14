@@ -1,15 +1,15 @@
 ---
-title: yellow
+title: Yellow
 categories: whut
 date: 2020-03-13 15:03:35
 tags: 
 ---
 
-{% bilibili 35277328 %}
 
----
-<iframe src="https://player.bilibili.com/player.html?aid=35277328&amp;page=1" scrolling="no" border="0" frameborder="no" framespacing="0" width="544" height="452" allowfullscreen="true" __idm_id__="239111169"> </iframe>
+{% meting "1356248072" "netease" "song" "autoplay" %}
 
+
+[av35277328](https://www.bilibili.com/video/av35277328)
 ![IMG_0429](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/yellow/IMG_0429-1584182662253.JPG)
 
 ![IMG_0430](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/yellow/IMG_0430-1584182662254.JPG)
