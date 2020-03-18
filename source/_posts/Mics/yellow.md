@@ -1,13 +1,11 @@
 ---
 title: Yellow
-categories: whut
+categories: Mics
 date: 2020-03-13 15:03:35
 tags: 
 ---
 
-
 {% meting "1356248072" "netease" "song" %}
-
 
 [av35277328](https://www.bilibili.com/video/av35277328)
 ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/yellow/IMG_0429.JPG)

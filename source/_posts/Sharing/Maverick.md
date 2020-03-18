@@ -5,11 +5,9 @@ tags: blog
 categories: Sharing
 ---
 
-
 我现在使用Hexo生成静态网站，再部署到Github。在本地写好markdown，然后用hexo来渲染网页。Maverick则省去了在本地 hexo generate && hexo deploy。每次改动会触发Github Action，进而通过Workflow自动完成更新部署 。于是可以在任何设备上仅在Github一个网站上完成博客的写作与发布。
 
 <div align=left><img src="https://static.imalan.cn/file/image/post/f3c20.png#vwid=1038&vhei=311" title="" alt="" img align="center"  width="275"></div>
-
 
 ## Maverick
 
