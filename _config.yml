@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Leoua7
+title: Leouas
 subtitle: 'アゲイン'
 description: 
 keywords: 
@@ -100,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape-plus
+theme: sakura
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
