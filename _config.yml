@@ -115,6 +115,6 @@ deploy:
     path: atom.xml
     limit: 20
 #aplayer
-aplayer:
-  meting: true
+#aplayer:
+#  meting: true
 
