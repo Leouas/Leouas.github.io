@@ -1,6 +1,6 @@
 ---
 title: manual
-categories: Sharing
+categories: Share
 date: 2020-03-14 18:14:28
 tags: 
 
