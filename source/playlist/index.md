@@ -6,13 +6,31 @@ photos: https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/Aprlies.jpg
 comments: false
 ---
 
-{% meting "32272663" "netease" "song" "autoplay" %}
-
 ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/youzenA.png)
-{% meting "19618" "netease" "artist" "theme:#FF4081" "mode:circulation" "mutex:true" "listmaxheight:340px" "preload:auto" "listfolded" %}
+<meting-js
+  server="netease"
+  type="playlist"
+  id="419239189"
+  mutex="true">
+</meting-js>
 
-{% meting "1055014" "netease" "artist" "listfolded"  %}
+<meting-js
+  server="netease"
+  type="artist"
+  id="19618"
+  mutex="true">
 
-{% meting "4880590323" "netease" "playlist" "theme:#FF4081" "mode:circulation" "order:random" "mutex:true" "listmaxheight:340px"  %}
+<meting-js
+  server="netease"
+  type="artist"
+  id="1055014"
+  mutex="true">
+
+<meting-js
+  server="netease"
+  type="playlist"
+  id="4880590323"
+  mutex="true">
+</meting-js>
 
 <img src="https://i.loli.net/2020/02/25/4ck63GVTwF2LroP.jpg" title="" alt="" data-align="center" width="75"><a href="https://www.bilibili.com/video/av2288962" target="_blank" rel="noopener noreferrer nofollow"><center>Animenz !!</center></a>
