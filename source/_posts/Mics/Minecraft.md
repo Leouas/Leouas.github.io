@@ -7,11 +7,18 @@ tags:
 ---
 
 ## Minecraft - Volume Alpha
-
 (游戏《我的世界》原声带 第1卷)
-
-{% meting "405493" "netease" "album"  %}
+<meting-js
+  server="netease"
+  type="album"
+  id="405493"
+  mutex="false">
+</meting-js>
 
 ### Living Mice
-
-{% meting "4010192" "netease" "song" %}
+<meting-js
+  server="netease"
+  type="song"
+  id="4010192"
+  mutex="false">
+</meting-js>
