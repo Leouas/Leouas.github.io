@@ -12,9 +12,10 @@ categories: Whut
 奶牛快传 → [Cowtransfer.com](https://cowtransfer.com)
 
 ```
-账号：gfzwl123@2go-mail.com
-账号：gfzhx123@2go-mail.com
-账号：gclx123@2go-mail.com
+账号：
+gfzwl123@2go-mail.com
+gfzhx123@2go-mail.com
+gclx123@2go-mail.com
 
 密码：123456789
 ```
