@@ -1,7 +1,7 @@
 ---
-
 title: vimrc
 date: 2020-02-15 02:13:08
+categories: geek
 tags: vim
 
 ---

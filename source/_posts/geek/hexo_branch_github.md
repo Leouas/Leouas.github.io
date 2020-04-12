@@ -1,11 +1,11 @@
 ---
 title: heox 博客多设备同步管理
 date: 2020-02-20 02:29:08
+categories: geek
 tag:
 - hexo
 - github
 ---
-
 
 之前一直没想好个人博客文件怎么存放？
 
@@ -73,4 +73,3 @@ git add . && git commit -m "update" && git push origin hexo
   - `git branch -r`查看远程分支
   
   - `git branch -a`查看所有分支
-

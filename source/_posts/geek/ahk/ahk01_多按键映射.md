@@ -2,7 +2,7 @@
 title: AHK-一个热键实现多种按键映射
 date: 2020-02-15 01:20:23
 tags: ahk
-categories: AutoHotKey
+categories: geek
 ---
 ## Virtual Desktop Switching
 e.g.

@@ -1,6 +1,7 @@
 ---
 title: 右键快捷菜单添加Terminal
 date: 2020-02-16 14:15:39
+categories: geek
 tags:
 - Windows
 - terminal

@@ -1,6 +1,6 @@
 ---
 title: Yellow
-categories: Mics
+categories: mics
 date: 2020-03-13 15:03:35
 tags: 
 ---

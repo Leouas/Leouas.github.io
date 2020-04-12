@@ -1,6 +1,7 @@
 ---
 title: hexo 迁移至windows
 date: 2020-02-16 13:13:12
+categories: geek
 tags: Windows
 ---
 

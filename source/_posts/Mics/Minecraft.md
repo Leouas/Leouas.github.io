@@ -1,6 +1,6 @@
 ---
 title: Minecraft
-categories: Mics
+categories: mics
 date: 2020-03-15 11:46:08
 tags: 
 

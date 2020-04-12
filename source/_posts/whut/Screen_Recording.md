@@ -2,7 +2,7 @@
 title: ScreenRecording
 date: 2020-03-17 17:01:27
 author: Leouas
-categories: Whut
+categories: whut
 ---
 
 # 网盘账号

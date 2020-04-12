@@ -1,6 +1,7 @@
 ---
 title: nginx配置ssl证书
 date: 2020-02-15 22:27:06
+categories: geek
 tags:
 - hexo
 - ssl

@@ -1,6 +1,7 @@
 ---
 title: Windows Terminal 美化
 date: 2020-02-16 19:12:45
+categories: geek
 tags:
 - terminal
 - Windows

@@ -1,6 +1,7 @@
 ---
 title: hexo per page
 date: 2020-02-17 05:12:25
+categories: geek
 tags:
 - hexo
 - blog
