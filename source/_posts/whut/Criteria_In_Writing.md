@@ -1,8 +1,8 @@
 ---
 title: General Criteria in Writing
 date: 2020-03-03 10:01:46
-tag: English
 categories: whut
+tag: English
 ---
 
 ### 1. Completeness
