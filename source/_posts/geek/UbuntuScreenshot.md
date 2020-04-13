@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ubunti-Screenshot
 date: 2020-02-16 14:36:55
 categories: geek
 tags: 

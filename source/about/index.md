@@ -146,11 +146,11 @@ function bot_ui_ini() {
                 content: "这里是我的一个小Home(窝)"
             }).then(function () {
                 botui.message.add({
-                    delay: 1800,
+                    delay: 1500,
                     content: "会放些喜欢的内容，写写小感悟。"
                 }).then(function () {
                 botui.message.add({
-                  delay: 2000,
+                  delay: 1800,
                   content: "这儿不是“归宿”，不过我很喜欢这里~"
                 }).then(function (a) {
                     fourthpart()
