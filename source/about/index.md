@@ -88,7 +88,7 @@ function bot_ui_ini() {
         end = function () {
             botui.message.add({
                 delay: 600,
-                content: "![...](https://view.moezx.cc/images/2018/05/06/a1c4cd0452528b572af37952489372b6.md.jpg)"
+                content: "![...](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/picgo/不听告辞.jpg)"
             })
         },
         secondpart = function () {
