@@ -3,7 +3,7 @@ title: {{ title }}
 date: {{ date }}
 categories: 
 tags: 
-description:
-comments: "true"
+description: 
+comments: false
 photo: 
 ---
