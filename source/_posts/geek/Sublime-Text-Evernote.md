@@ -5,7 +5,7 @@ categories: geek
 tags: sublime text
 comments: false
 description: 配置插件。使用sublime编写markdown，并实现与笔记的双向定位
-photo: https://www.sublimetext.com/screencasts/windows_image_1_packed.png
+photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/20200423034700.png
 ---
 
 ## sublime text 3

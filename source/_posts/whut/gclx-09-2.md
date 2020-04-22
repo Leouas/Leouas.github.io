@@ -5,7 +5,7 @@ categories: whut
 tags: 工程力学
 comments: false
 description: 
-photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/gclx-1.png
+photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/20200423035807.png
 ---
 
 ## 工程实例

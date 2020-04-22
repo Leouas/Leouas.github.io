@@ -6,14 +6,19 @@ tags: pic
 comments: false
 description: 可可萝 真的是太可爱了
 photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝-2020042302.png
+nofooter: true
 ---
-<div><img src="https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝2020-04-22 234922.webp"></div>
+<div>{% fb_img https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝2020-04-22%20234922.webp %}</div>
+
 </br>
+
+</br>
+
 <div align="center">
 
 > 可可萝 真的是太可爱了
-> [link: cv2859583](https://www.bilibili.com/read/cv2859583/)
->  \~fancybox on\~
+> [**link: CV2859583**](https://www.bilibili.com/read/cv2859583/)
+>  Fancybox on | Click on the pictures
 
 </div>
 
