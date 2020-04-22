@@ -4,8 +4,13 @@ categories: mics
 date: 2020-03-13 15:03:35
 tags: 
 ---
+<meting-js
+  server="netease"
+  type="song"
+  id="1356248072"
+  mutex="false">
+</meting-js>
 
-{% meting "1356248072" "netease" "song" %}
 
 [av35277328](https://www.bilibili.com/video/av35277328)
 ![](https://cdn.jsdelivr.net/gh/Leouas/Leouas-img/yellow/IMG_0429.JPG)
