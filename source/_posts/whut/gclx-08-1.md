@@ -3,12 +3,14 @@ title: 工程力学08 习题课
 date: 2020-04-13 19:58:33
 categories: whut
 tags: 工程力学
-photo: https://hbimg.huabanimg.com/2b7f276b2a20e0b45401366bb83a7345978c7f05367615-2TPq9s
+comments: false
+description: 
+photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/gclx-1.png
 ---
 ## 工程力学08 习题课
 <br>
 <div align="center">
-	
+
 > 截了绝大多数的PPT，不过顺序没有调整
 > [OneDrive 直链](https://whuteducn-my.sharepoint.com/personal/leoua7_whut_edu_cn/_layouts/52/download.aspx?share=ER8KeZdtRiNLsIbwyfLyAaABDo42h3jL3qxTd-ZSYLvHQA)
 
