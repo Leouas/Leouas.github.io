@@ -1,19 +1,19 @@
 ---
-title: 《公主连结Re:Dive》
+title: 公主连结Re:Dive  可可萝
 date: 2020-04-22 23:50:54
 categories: mics
 tags: pic
 comments: false
 description: 可可萝 真的是太可爱了
-photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝2020-04-22 234922.webp
-banner: true
+photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝-2020042302.png
 ---
-<img src="https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝2020-04-22 234922.webp">
-
+<div><img src="https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/可可萝2020-04-22 234922.webp"></div>
+</br>
 <div align="center">
 
 > 可可萝 真的是太可爱了
-> [cv2859583](https://www.bilibili.com/read/cv2859583/)
+> [link: cv2859583](https://www.bilibili.com/read/cv2859583/)
+>  \~fancybox on\~
 
 </div>
 
