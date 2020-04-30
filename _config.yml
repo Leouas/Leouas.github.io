@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https:\\leouas.top
-root: /
+url: http://39.97.208.36
+root: /hexo
 permalink: :name/
 permalink_defaults:
 pretty_urls:
@@ -109,8 +109,15 @@ deploy:
   repo: git@github.com:Leouas/Leouas.github.io.git
   branch: master
 
+
+# deploy:
+#   type: git
+#   #repo改为repo: git@你的域名:/var/repo/hexo.git
+#   repo: git@39.97.208.36:/var/repo/hexo.git
+#   branch: master
+
 #RSS
-  feed:
+  feed: 
     type: atom
     path: atom.xml
     limit: 20
