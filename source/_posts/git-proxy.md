@@ -6,9 +6,11 @@ date: 2020-05-06 19:34:12
 categories: geek
 tags: proxy
 description: 添加git代理，改善github clone速度
-photo: https://unsplash.it/1600/900?random
+photo: https://tva4.sinaimg.cn/large/0072Vf1pgy1foxlhe0a6tj31hc0u0qhh.jpg
+banner: true
 ---
 
+<!-- https://unsplash.it/1600/900?random -->
 ```
 git config --global http.proxy http://127.0.0.1:8001
 git config --global https.proxy https://127.0.0.1:8001
