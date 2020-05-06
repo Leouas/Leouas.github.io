@@ -8,9 +8,11 @@ description: 我已经不想再折腾什么了，现在的我只想简简单单�
 photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg
 ---
 
-<iframe src="//music.163.com/outchain/player?type=2&amp;id=1385919930&amp;auto=1&amp;height=66" width="330" height="86" frameborder="no" marginwidth="0" marginheight="0"></iframe>
 
-![](https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg)
+
+
+<div align="center" src="https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg"></div>
+
 
 我已经不想再折腾什么了，现在的我只想简简单单地过好自己的一生。
 现在真的羡慕起《瓦尔登湖》中描述的生活，也羡慕吉良吉影的的普通上班族生活。

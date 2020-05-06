@@ -13,8 +13,8 @@ timezone: ''
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://39.97.208.36
-root: /hexo
+url: leouas.top
+root: /
 permalink: :name/
 permalink_defaults:
 pretty_urls:
@@ -122,6 +122,6 @@ deploy:
     path: atom.xml
     limit: 20
 #aplayer
-#aplayer:
-#  meting: true
+aplayer:
+  meting: true
 
