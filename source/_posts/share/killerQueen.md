@@ -9,10 +9,14 @@ photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg
 ---
 
 
-
-
 <div align="center" src="https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg"></div>
-
+<meting-js
+  server="netease"
+  type="song"
+  id="1385919930"
+  autoplay="true"
+  mutex="false">
+</meting-js>
 
 我已经不想再折腾什么了，现在的我只想简简单单地过好自己的一生。
 现在真的羡慕起《瓦尔登湖》中描述的生活，也羡慕吉良吉影的的普通上班族生活。
