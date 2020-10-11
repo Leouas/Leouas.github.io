@@ -33,27 +33,6 @@
   </entry>
   
   <entry>
-    <title>Blackwood</title>
-    <link href="leouas.top/blackwood/"/>
-    <id>leouas.top/blackwood/</id>
-    <published>2020-07-29T17:50:17.000Z</published>
-    <updated>2020-07-29T17:50:17.000Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h3 id="bilibili-视频（点击图片）"><a href="#bilibili-视频（点击图片）" class="headerlink" title="bilibili 视频（点击图片）"></a>bilibili 视频（点击图片）</h3><div align="center"><a href="https://www.bilibili.com/video/av754056585?p=1" target="_blank" rel="noopener" title="https://www.bilibili.com/video/av754056585?p=1"><img src="https://imgkr.cn-bj.ufileos.com/257432cc-c898-46b9-9bbe-18a6f0f86b47.png"></a></div><h3 id="SED"><a href="#SED" class="headerlink" title="SED"></a>SED</h3><div align="center">    <iframe src="//player.bilibili.com/player.html?aid=754056585&bvid=BV1pk4y1m7uj&cid=218156000&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:420px; height:232px"> </iframe></div><h3 id="激光"><a href="#激光" class="headerlink" title="激光"></a>激光</h3><div align="center">    <iframe src="//player.bilibili.com/player.html?aid=754056585&bvid=BV1pk4y1m7uj&cid=218156000&page=2" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:420px; height:232px"> </iframe></div><h3 id="无人机"><a href="#无人机" class="headerlink" title="无人机"></a>无人机</h3><div align="center">    <iframe src="//player.bilibili.com/player.html?aid=754056585&bvid=BV1pk4y1m7uj&cid=218156000&page=3" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="width:420px; height:232px"> </iframe></div><h3 id="炮台技巧"><a href="#炮台技巧" class="headerlink" title="炮台技巧"></a>炮台技巧</h3><p>伤害最高的地方为背后红色区域。正面炮台时射击机械连接部分</p><p>在无人机boos中，使用战术形态一枪可以秒掉眼镜蛇炮台</p><a href="https://pc.warface.com/forums/showthread.php?t=75387" target="_blank" rel="noopener"><img border="0" src="https://imgkr.cn-bj.ufileos.com/d53f12fd-2f9b-45c5-8f43-bd85a32d3846.png" /></a><blockquote><p>这张图是白色的眼睛蛇，受到10倍爆炸伤害；有时会见到蓝色的眼睛蛇炮台，它的生命值更低，受到7倍爆炸伤害</p></blockquote>]]></content>
-    
-    <summary type="html">
-    
-      炮台技巧、潜行清兵
-    
-    </summary>
-    
-    
-    
-      <category term="Warface" scheme="leouas.top/tags/Warface/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Handwriting_Style_Font_Modification in Word</title>
     <link href="leouas.top/geek-word-font/"/>
     <id>leouas.top/geek-word-font/</id>
@@ -469,6 +448,31 @@
     
     
       <category term="JOJO" scheme="leouas.top/tags/JOJO/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo-html-demo</title>
+    <link href="leouas.top/geek-html-demo/"/>
+    <id>leouas.top/geek-html-demo/</id>
+    <published>2020-04-13T21:26:22.000Z</published>
+    <updated>2020-04-13T21:26:22.000Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>将文章的<code>html</code> 中 <code>header</code>代码贴了过来，<br>作一个小的展示页用</p><pre><code>---title: date: layout: falsecategories: tags: description: photo: ---&lt;!DOCTYPE html&gt;&lt;html lang=&quot;en&quot;&gt;&lt;head&gt;&lt;meta charset=&quot;utf-8&quot;&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/googlefont.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; id=&quot;saukra_css-css&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/style.css&quot; type=&quot;text/css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/lib.min.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/font.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/insight.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/jquery.fancybox.min.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/zoom.css&quot; media=&quot;all&quot;&gt;  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/gh/xbclub/staticCDN@0.6/css/sharejs.css&quot;&gt;  &lt;script type=&quot;text/javascript&quot;&gt; var bg = &quot;&lt;%= theme.bg%&gt;&quot;.split(&quot;,&quot;); var bgindex = Math.floor(Math.random()*bg.length); if (!!window.ActiveXObject || &quot;ActiveXObject&quot; in window) { //is IE?  alert(&#39;朋友，IE浏览器未适配哦~&#39;); } &lt;/script&gt;  &lt;style type=&quot;text/css&quot;&gt;  .hljs-ln{border-collapse:collapse}.hljs-ln td{padding:0}.hljs-ln-n:before{content:attr(data-line-number)}  &lt;/style&gt; &lt;style type=&quot;text/css&quot;&gt;.site-top .lower nav{display:block !important;}.author-profile i,.post-like a,.post-share .show-share,.sub-text,.we-info a,span.sitename,.post-more i:hover,#pagination a:hover,.post-content a:hover,.float-content i:hover{color:#FE9600}.feature i,.download,.navigator i:hover,.links ul li:before,.ar-time i,span.ar-circle,.object,.comment .comment-reply-link,.siren-checkbox-radio:checked + .siren-checkbox-radioInput:after{background:#FE9600}::-webkit-scrollbar-thumb{background:#FE9600}.download,.navigator i:hover,.link-title,.links ul li:hover,#pagination a:hover,.comment-respond input[type=&#39;submit&#39;]:hover{border-color:#FE9600}.entry-content a:hover,.site-info a:hover,.comment h4 a,#comments-navi a.prev,#comments-navi a.next,.comment h4 a:hover,.site-top ul li a:hover,.entry-title a:hover,#archives-temp h3,span.page-numbers.current,.sorry li a:hover,.site-title a:hover,i.iconfont.js-toggle-search.iconsearch:hover,.comment-respond input[type=&#39;submit&#39;]:hover{color:#FE9600}.comments .comments-main{display:block !important;}.comments .comments-hidden{display:none !important;}background-position:center center;background-attachment:inherit;} &lt;/style&gt;&lt;/head&gt;&lt;body&gt;    &lt;header class=&quot;site-header no-select gizle yya sabit&quot; role=&quot;banner&quot;&gt;&lt;div class=&quot;site-top&quot;&gt; &lt;div class=&quot;site-branding&quot;&gt; &lt;span class=&quot;site-title&quot;&gt; &lt;span class=&quot;logolink moe-mashiro&quot;&gt; &lt;a href=&quot;/&quot;&gt; &lt;span class=&quot;sakurasono&quot;&gt;さくら荘その&lt;/span&gt; &lt;span class=&quot;shironeko&quot;&gt;leouas&lt;/span&gt; &lt;/a&gt; &lt;/span&gt; &lt;/span&gt; &lt;/div&gt; &lt;div class=&quot;searchbox search-form-submit&quot;&gt; &lt;i class=&quot;iconfont js-toggle-search iconsearch icon-search&quot;&gt; &lt;/i&gt; &lt;/div&gt; &lt;div id=&quot;show-nav&quot; class=&quot;showNav mobile-fit&quot;&gt; &lt;div class=&quot;line line1&quot;&gt; &lt;/div&gt; &lt;div class=&quot;line line2&quot;&gt; &lt;/div&gt; &lt;div class=&quot;line line3&quot;&gt; &lt;/div&gt; &lt;/div&gt; &lt;div class=&quot;lower-cantiner&quot;&gt; &lt;div class=&quot;lower&quot;&gt; &lt;nav class=&quot;mobile-fit-control hide&quot;&gt; &lt;ul id=&quot;menu-new&quot; class=&quot;menu&quot;&gt;&lt;li&gt; &lt;a href=&quot;/&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-fort-awesome faa-shake&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 首页 &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;javascript:;&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-archive faa-shake&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 分类 &lt;/span&gt; &lt;/a&gt;&lt;ul class=&quot;sub-menu&quot;&gt;&lt;li&gt; &lt;a href=&quot;/categories/geek/&quot;&gt; &lt;i class=&quot;fa fa-code&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 技术 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/categories/whut/&quot;&gt; &lt;i class=&quot;fa fa-file-text-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 学习 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/categories/share/&quot;&gt; &lt;i class=&quot;fa fa-commenting-o&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 随想 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/categories/mics/&quot;&gt; &lt;i class=&quot;fa fa-music&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 媒体 &lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;javascript:;&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-list-ul faa-vertical&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 清单 &lt;/span&gt; &lt;/a&gt;&lt;ul class=&quot;sub-menu&quot;&gt;&lt;li&gt; &lt;a href=&quot;/categories/books/&quot;&gt; &lt;i class=&quot;fa fa-th-list faa-bounce&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 书单 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/bangumi/&quot;&gt; &lt;i class=&quot;fa fa-film faa-vertical&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 番组 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/playlist/&quot;&gt; &lt;i class=&quot;fa fa-headphones&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 歌单 &lt;/a&gt; &lt;/li&gt;&lt;li&gt; &lt;a href=&quot;https://huaban.com/sayk/pins/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; &lt;i class=&quot;fa fa-photo&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 图集 &lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/archives&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-archive faa-shake&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 归档 &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/tags&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 标签 &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/comment/&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-pencil-square-o faa-tada&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 留言 &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;javascript:;&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-leaf faa-wrench&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 关于 &lt;/span&gt; &lt;/a&gt;&lt;ul class=&quot;sub-menu&quot;&gt;&lt;li&gt; &lt;a href=&quot;/about/&quot;&gt; &lt;i class=&quot;fa fa-meetup&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 我？ &lt;/a&gt; &lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/links/&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-link faa-shake&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; 友人帐 &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;li&gt; &lt;a href=&quot;/atom.xml&quot;&gt; &lt;span class=&quot;faa-parent animated-hover&quot;&gt; &lt;i class=&quot;fa  fa-rss faa-pulse&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt; RSS &lt;/span&gt; &lt;/a&gt;&lt;/li&gt;&lt;/ul&gt; &lt;/nav&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; &lt;/header&gt;    &lt;!-- content --&gt;&lt;/body&gt;&lt;/html&gt;</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      在Post内添加Html时使用rawtag还是有问题，暂时使用html layout:false
+    
+    </summary>
+    
+    
+      <category term="geek" scheme="leouas.top/categories/geek/"/>
+    
+    
+      <category term="hexo" scheme="leouas.top/tags/hexo/"/>
+    
+      <category term="sakura" scheme="leouas.top/tags/sakura/"/>
     
   </entry>
   
