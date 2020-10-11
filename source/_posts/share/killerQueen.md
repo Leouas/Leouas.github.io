@@ -6,6 +6,9 @@ categories: share
 tags: 
 description: 我已经不想再折腾什么了，现在的我只想简简单单地过好自己的一生。
 photo: https://cdn.jsdelivr.net/gh/pRzA6/pRzA6/2020-04-30_18-57-39.jpg
+password: xiangbudaoba
+abstract: abstract
+message:  你猜我会设什么密码
 ---
 
 

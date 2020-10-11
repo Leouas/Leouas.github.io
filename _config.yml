@@ -113,7 +113,7 @@ deploy:
 # deploy:
 #   type: git
 #   #repo改为repo: git@你的域名:/var/repo/hexo.git
-#   repo: git@39.97.208.36:/var/repo/hexo.git
+#   repo: git@39.97.208.36:/www/wwwroot/hexo/hexo.git
 #   branch: master
 
 #RSS
@@ -125,3 +125,5 @@ deploy:
 aplayer:
   meting: true
 
+encrypt:
+    enable: true
