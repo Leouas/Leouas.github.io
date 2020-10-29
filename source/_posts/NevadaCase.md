@@ -10,7 +10,7 @@ photo:  https://imgkr2.cn-bj.ufileos.com/779e6b34-3679-472f-8f44-e9da9811ba31.pn
 
 # Nevada case
 
-promo page **[ https://ru.warface.com/promo/nevadacase ](https://ru.warface.com/promo/nevadacase)** 
+promo page **[ https://pc.warface.com/promo/nevadacase/en/ ](https://pc.warface.com/promo/nevadacase/en/)** 
 
 
 
